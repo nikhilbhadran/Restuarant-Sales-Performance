@@ -151,8 +151,8 @@ Step 3: Download Power BI to perform Data Analysis
 Step 4: Connect Power BI with MySql database or Excel database
 
 # Power BI Dashboard
-<p  align="center"><a href="https://github.com/nikhilbhadran"><img width="80%" src="https://github.com/nikhilbhadran/Restuarant-Sales-Performance-Dashboard/blob/main/Best%3Aworst.png" /></a></p>
+<p  align="center"><a href="https://github.com/nikhilbhadran"><img width="80%" src="Pizza dash.png" /></a></p>
 
-# Data Analysis Approach
-<p  align="center"><a href="https://github.com/nikhilbhadran"><img width="80%" src="Data Approach.png" /></a></p>
+# Best/Worst Dashboard
+<p  align="center"><a href="https://github.com/nikhilbhadran"><img width="80%" src="https://github.com/nikhilbhadran/Restuarant-Sales-Performance-Dashboard/blob/main/Best%3Aworst.png" /></a></p>
 
