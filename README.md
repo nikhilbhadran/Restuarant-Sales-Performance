@@ -118,7 +118,7 @@ GROUP BY pizza_name
 ORDER BY Total_Orders ASC`
 
 # Data Analysis Approach
-<p  align="center"><a href="https://github.com/mrankitgupta"><img width="80%" src="Data Approach.png" /></a></p>
+<p  align="center"><a href="https://github.com/nikhilbhadran"><img width="80%" src="Data Approach.png" /></a></p>
 
 # Setup Process
 
